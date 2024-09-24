@@ -1,0 +1,4 @@
+--SELECT TOP (1000) [Id]
+--      ,[Name]
+--      ,[CreatedDate]
+--  FROM [EFProjectDb].[dbo].[Categories]
